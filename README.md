@@ -1,5 +1,5 @@
 # Multipurpose Mobile Manipulator Mk 1
-### ---List of Capabilities 2015-2016--- 
+## ---List of Capabilities 2015-2016--- 
 
 ![Alt Text](http://cdn.instructables.com/F7Q/C851/IOIWAD0A/F7QC851IOIWAD0A.LARGE.jpg)
 
