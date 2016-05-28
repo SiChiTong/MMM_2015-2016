@@ -16,7 +16,7 @@ people each with the objective of getting the Multipurpose Mobile Manipulator to
 * [Watering Plants](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_Plants)
 * [Picking Up Legos](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_ToyBricks)
 * [Drawing Pictures](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_Drawing)
-* [Toy Dart Combat](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_Stirring)
+* [Toy Dart Combat](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_ToyDarts)
 * [Stirring Pots](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_Stirring)
 * [Hot Dog Assembly](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_HotDog)
 * [Cereal Feeder](https://github.com/johnchoi313/MMM_2015-2016/tree/master/MMM_Cereal)
